@@ -1,9 +1,19 @@
-# Wallpapers
+# Wallpapers 📎
+ My wallpapers collection
+__(+400 wallpapers)__
 
-Minha coleção de wallpapers
-* +400 wallpapers
+<img src="./MW/185.png">
 
-### Fontes:
-* Discord
-* Reddit
-* 4chan
+## How download:
+
+- Windows
+```
+click on "Code"
+Download the zip
+Extract the "wallpapers_main.zip"
+```
+
+- Linux/Mac
+```
+git clone https://github.com/spylima/wallpapers
+```
