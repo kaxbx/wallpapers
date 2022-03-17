@@ -1,6 +1,6 @@
 # Wallpapers 📎
  My wallpapers collection
-__(+400 wallpapers)__
+__(+550 wallpapers)__
 
 <img src="./MW/185.png">
 
